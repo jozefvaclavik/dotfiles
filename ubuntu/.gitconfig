@@ -1,0 +1,9 @@
+[user]
+	name = Jozef Vaclavik
+	email = jozef@trifle.io
+[push]
+	default = simple
+[core]
+	editor = vim
+[alias]
+	toptal = config user.email \"jozef@toptal.com\"
